@@ -7116,6 +7116,10 @@ textarea.form-control-lg {
   width: 100% !important;
 }
 
+.w-150 {
+  width: 150% !important;
+}
+
 .w-auto {
   width: auto !important;
 }
@@ -7821,7 +7825,24 @@ textarea.form-control-lg {
 .lh-lg {
   line-height: 1.75 !important;
 }
-
+.mt-25{
+  margin-top: 0.9rem !important;
+}
+.w-80{
+  width: 80% !important;
+}
+.fw600{
+  font-weight: 600 !important;
+}
+.text20{
+  font-size: 20px !important;
+}
+.text32{
+  font-size: 32px !important;
+}
+.text50{
+  font-size: 50px !important;
+}
 .text-start {
   text-align: left !important;
 }
